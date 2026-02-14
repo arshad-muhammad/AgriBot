@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgriDiagnost",
+  "description": "A professional agricultural research platform for structured crop disease assessment and condition reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
